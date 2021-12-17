@@ -1,0 +1,19 @@
+{
+  "name": "tumblr-4u-apidoc",
+  "version": "1.0.0",
+  "description": "Api documentation web page for the backend tumblr-4u",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reem-atalah/Tumblr-4u-apiDoc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reem-atalah/Tumblr-4u-apiDoc/issues"
+  },
+  "homepage": "https://github.com/reem-atalah/Tumblr-4u-apiDoc#readme"
+}
